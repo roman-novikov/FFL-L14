@@ -308,6 +308,11 @@ body {
   color: #dd2c00;
 }
 
+.title--low {
+  font-size: 40px;
+  line-height: 127.5%;
+}
+
 .our-spaces__header {
   margin-bottom: 50px;
 }
@@ -339,11 +344,6 @@ body {
   font-size: 18px;
   color: #9a9a9a;
   line-height: 155.55556%;
-}
-
-.title--low {
-  font-size: 40px;
-  line-height: 127.5%;
 }
 
 .spaces-b__row {
@@ -550,10 +550,7 @@ body {
 }
 
 .content-why__title {
-  font-family: "Lora";
-  font-weight: 700;
-  font-size: 40px;
-  line-height: 127.5%;
+  color: #fff;
   margin-bottom: 24px;
 }
 
